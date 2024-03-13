@@ -1,0 +1,46 @@
+.post-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.post {
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.post h3 {
+  margin-bottom: 8px;
+  color: #333;
+  font-size: 18px;
+}
+
+.post p {
+  margin-bottom: 12px;
+  line-height: 1.4;
+  color: #666;
+  font-size: 14px;
+}
+
+.like-container {
+  display: flex;
+  align-items: center;
+  color: #666;
+}
+
+.like-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.timestamp {
+  font-size: 12px;
+  color: #999;
+}
+
+.mention {
+  color: blue;
+}

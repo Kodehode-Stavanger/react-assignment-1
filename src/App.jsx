@@ -1,6 +1,3 @@
-import Feed from "./Feed/Feed";
-function App() {
-  return <Feed />;
-}
+function App() {}
 
 export default App;

@@ -2,6 +2,8 @@
 
 ### Social Media Feed
 
+![goal]("./src/assets/goal.png")
+
 You are making a mockup of a social media feed 👍 I have included the data in the assets folder (posts.js). Leave it where it is, and import it where needed. You have to loop over the data. (Hint: use .map())
 
 Use this component structure:
